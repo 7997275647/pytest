@@ -1,13 +1,5 @@
 import pytest
 
-import Source.Shapes as shapes
-@pytest.fixture
-def  my_rectangle():
-    return shapes.rectangle(10,20)
-@pytest.fixture
-def other_rectangle():
-    return shapes.rectangle(5,6)
-
 def test_area(my_rectangle):
     assert my_rectangle.area() == 10*20
 
