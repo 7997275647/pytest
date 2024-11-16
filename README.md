@@ -22,7 +22,6 @@ The aim of this project is to showcase best practices for writing robust, mainta
 ---
 
 
----
 
 ## Installation
 
