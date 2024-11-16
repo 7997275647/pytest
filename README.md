@@ -21,5 +21,14 @@ The aim of this project is to showcase best practices for writing robust, mainta
 
 ---
 
-## Project Structure
+
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/7997275647/pytest.git
+   ```
+
 
