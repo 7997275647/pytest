@@ -23,3 +23,4 @@ The aim of this project is to showcase best practices for writing robust, mainta
 
 ## Project Structure
 
+├── src/ │ ├── module.py # Core logic to be tested │ ├── init.py # Package initialization ├── tests/ │ ├── test_module.py # Unit tests for the module │ ├── conftest.py # Fixtures for the test suite │ ├── init.py # Package initialization for tests ├── requirements.txt # Project dependencies ├── README.md # Project description and guide
